@@ -22,5 +22,6 @@ See more [useful libraries](useful-libraries.md), or see some [mithril sample ap
 
 ## Deprecations
 * `props()` and `withAttr()`
+* replacement of `withAttr` is `oninput: e => val = e.target.value` (thanks to @osban)
 
 ## Router Notes
