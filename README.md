@@ -11,6 +11,8 @@ mithril 2.0 is coming. It's exciting news because it is a well refined improveme
 * [bss](https://www.npmjs.com/package/bss) : popular way to do css in mithril.
 * [Polythene](https://arthurclemens.github.io/polythene-demos/mithril/#/) and [construct-ui](https://vrimar.github.io/construct-ui/#/introduction/getting-started) : Two UI libraries that work with mithril. Promising, but haven't used yet.
 
+See more [useful libraries](useful-libraries.md), or see some [mithril sample apps](sample-apps.md)
+
 ## Closure Components Notes
 * It is the preferred way to create stateful component.
 * You can create/maintain state via closure creation, or via oninit(), there is no difference.
