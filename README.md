@@ -16,6 +16,7 @@ See more [useful libraries](useful-libraries.md), or see some [mithril sample ap
 ## How to use mithril
 * `import m from 'mithril';`
 * `var m = require('mithril').m;` or `var m = require('mithril').default;`
+* or `var m = require("mithril"); if (typeof m !== "function") m = m.default` (thanks to @isiahmeadows)
 
 ## Closure Components Notes
 * It is the preferred way to create stateful component.
