@@ -20,7 +20,7 @@ See more [useful libraries](useful-libraries.md), or see some [mithril sample ap
 
 ## Closure Components Notes
 * It is the preferred way to create stateful component.
-* You can create/maintain state via closure creation, or via oninit(), there is no difference.
+* You can create/maintain state via closure creation, or via oninit(), there is no difference. However `oninit()` can be async if needed. (thanks to @spacejack)
 
 ## Class Components
 * Still usable, but closure components preferred
