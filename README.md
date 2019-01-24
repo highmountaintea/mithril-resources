@@ -13,6 +13,10 @@ mithril 2.0 is coming. It's exciting news because it is a well refined improveme
 
 See more [useful libraries](useful-libraries.md), or see some [mithril sample apps](sample-apps.md)
 
+## How to use mithril
+`import m from 'mithril';`
+`var m = require('mithril').m;` or `var m = require('mithril').default;`
+
 ## Closure Components Notes
 * It is the preferred way to create stateful component.
 * You can create/maintain state via closure creation, or via oninit(), there is no difference.
