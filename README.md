@@ -1,6 +1,6 @@
-# `mithril.js 2.0` Resources
+# mithril.js 2.0 Resources
 
-`mithril 2.0` is coming. It's exciting news because it is a well refined improvement of mithril. Online documentation of mithril is somewhat a "mixed bag", as old and new documents intertwine. Here are my notes dedicated to mithril 2.0, and hopefully it helps others too.
+mithril 2.0 is coming. It's exciting news because it is a well refined improvement of mithril. Online documentation of mithril is somewhat a "mixed bag", as old and new documents intertwine. Here are my notes dedicated to mithril 2.0, and hopefully it helps others too.
 
 
 ## Useful libraries and samples
